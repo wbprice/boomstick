@@ -20,3 +20,8 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
   - [Detailed Build](http://www.slagcoin.com/joystick/example3.html)
 - [Adafruit Bluetooth Controller](https://learn.adafruit.com/bluetooth-arcade-stick/) Related project. Describes how to use parts ordered from Adafruit listed above.
 
+# Layout Requirements
+![sega1_l](https://cloud.githubusercontent.com/assets/2590422/21487656/a8a40d32-cb9c-11e6-82db-816dd6999120.png)
+- Should be based on Astro City (Player One), which is pretty standard for Arcade cabinets.
+- Should include all buttons necessary to play NES/SNES/Genesis games.
+- Should have a dedicated menu button.
