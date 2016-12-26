@@ -1,7 +1,7 @@
 # boomstick
 Describes the process of creating a Raspberry Pi-powered arcade console.
 
-# Hardware
+# Components
 - [x] [Raspberry Pi Model 3](https://www.adafruit.com/products/3055)
 - [x] [9x Small Translucent Red Arcade Buttons](https://www.adafruit.com/products/473)
 - [x] [8x Arcade/Button Quick-Connect Wire Pair](https://www.adafruit.com/products/1152)
@@ -10,4 +10,9 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
 
 # OS
 - [x] [Lakka](http://www.lakka.tv/)
+
+# Hardware Design References
+- http://www.slagcoin.com/joystick.html
+  - [Layout](http://www.slagcoin.com/joystick/layout.htm)
+  - [Detailed Build](http://www.slagcoin.com/joystick/example3.html)
 
