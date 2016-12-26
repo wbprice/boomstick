@@ -9,6 +9,7 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
 - [x] [8x Arcade/Button Quick-Connect Wire Pair](https://www.adafruit.com/products/1152)
 - [x] [1x 16mm Red Illuminated Pushbutton](https://www.adafruit.com/products/1439)
 - [x] [1x Small Arcade Joystick](https://www.adafruit.com/products/480)
+- [x] [Walnut Hollow Cornice Box](https://www.amazon.com/gp/product/B000YQEMHW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 # OS
 - [x] [Lakka](http://www.lakka.tv/)
