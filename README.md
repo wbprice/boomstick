@@ -15,7 +15,8 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
 - [x] [Lakka](http://www.lakka.tv/)
 
 # Case Design References
-- http://www.slagcoin.com/joystick.html
+- [Slagcoin](http://www.slagcoin.com/joystick.html) Lots of good general information.
   - [Layout](http://www.slagcoin.com/joystick/layout.htm)
   - [Detailed Build](http://www.slagcoin.com/joystick/example3.html)
+- [Adafruit Bluetooth Controller](https://learn.adafruit.com/bluetooth-arcade-stick/) Related project. Describes how to use parts ordered from Adafruit listed above.
 
