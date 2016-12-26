@@ -11,7 +11,7 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
 # OS
 - [x] [Lakka](http://www.lakka.tv/)
 
-# Hardware Design References
+# Case Design References
 - http://www.slagcoin.com/joystick.html
   - [Layout](http://www.slagcoin.com/joystick/layout.htm)
   - [Detailed Build](http://www.slagcoin.com/joystick/example3.html)
