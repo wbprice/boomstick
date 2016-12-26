@@ -1,3 +1,5 @@
+![boomstick](https://cloud.githubusercontent.com/assets/2590422/21485582/7067ab3c-cb73-11e6-82b0-20654c4f28f1.jpg)
+
 # boomstick
 Describes the process of creating a Raspberry Pi-powered arcade console.
 
