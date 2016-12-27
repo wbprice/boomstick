@@ -12,7 +12,8 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
 - [x] [Walnut Hollow Cornice Box](https://www.amazon.com/gp/product/B000YQEMHW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 # OS
-- [x] [Lakka](http://www.lakka.tv/)
+- [x] ~[Lakka](http://www.lakka.tv/)~ (Lakka doesn't currently support GPIO inputs. RetroPie has more support/precedent for this)
+- [x] [RetroPie](https://retropie.org.uk/)
 
 # Case Design References
 - [Slagcoin](http://www.slagcoin.com/joystick.html) Lots of good general information.
