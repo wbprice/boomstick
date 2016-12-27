@@ -22,6 +22,7 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
 
 # Prior Art
 - [Hacker House YT Raspberry Pi Portable Arcade](https://github.com/HackerHouseYT/Portable-Arcade/blob/master/README.md)
+- [Retro Gaming with Raspberry Pi](https://learn.adafruit.com/retro-gaming-with-raspberry-pi)
 
 # Layout Requirements
 ![sega1_l](https://cloud.githubusercontent.com/assets/2590422/21487656/a8a40d32-cb9c-11e6-82db-816dd6999120.png)
