@@ -20,6 +20,9 @@ Describes the process of creating a Raspberry Pi-powered arcade console.
   - [Detailed Build](http://www.slagcoin.com/joystick/example3.html)
 - [Adafruit Bluetooth Controller](https://learn.adafruit.com/bluetooth-arcade-stick/) Related project. Describes how to use parts ordered from Adafruit listed above.
 
+# Prior Art
+- [Hacker House YT Raspberry Pi Portable Arcade](https://github.com/HackerHouseYT/Portable-Arcade/blob/master/README.md)
+
 # Layout Requirements
 ![sega1_l](https://cloud.githubusercontent.com/assets/2590422/21487656/a8a40d32-cb9c-11e6-82db-816dd6999120.png)
 - Should be based on Astro City (Player One), which is pretty standard for Arcade cabinets.
